@@ -21,6 +21,12 @@ This project builds an intelligent recommendation system to assist hiring manage
 
 ---
 
+### 📄 Preview of the PDF
+
+![PDF Preview](https://github.com/garvitkumbhat619/SHL_Assessment-Recommendation_System/blob/e5e8d6bc0b7d6c78558439ed3fa4283aec5ef21f/SHL%20Assessment%20Recommender-page-001_new.jpg)
+
+---
+
 ## Directory Structure
 
 ```
