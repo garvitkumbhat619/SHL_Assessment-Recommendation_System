@@ -1,18 +1,28 @@
+# Core ML & Embedding
 torch>=2.6.0
-transformers>=4.41.0
-sentence-transformers>=2.6.1
+transformers==4.41.2
+sentence-transformers==2.6.1
 InstructorEmbedding==1.0.1
-faiss-cpu
-numpy>=1.24,<2.3
-pandas>=2.1,<2.3
-scikit-learn>=1.3,<1.5
-joblib
+faiss-cpu==1.7.4
+
+# Data handling
+numpy==1.24.4
+pandas==2.2.1
+scikit-learn==1.3.2
+joblib==1.3.2
+
+# Web scraping & utils
 beautifulsoup4
 requests
 trafilatura
 lxml_html_clean
+openpyxl
 selenium
 webdriver-manager
-streamlit
 tqdm
+
+# UI
+streamlit==1.35.0
+
+# Compatibility
 tf-keras
