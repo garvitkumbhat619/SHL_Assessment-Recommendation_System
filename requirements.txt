@@ -1,27 +1,18 @@
-# Core NLP and Transformers
-sentence-transformers==2.7.0
-InstructorEmbedding==1.0.1  # Keep this if specifically required
-huggingface_hub==0.21.4
-torch==2.7.1
-faiss-cpu==1.8.0
-
-# ML utilities
-scikit-learn==1.5.0
-numpy==1.26.2
-joblib==1.4.2
-pandas==2.2.2
-
-# HTML & Web scraping
-trafilatura==1.6.2
-lxml-html-clean==0.1.1  # match actual PyPI name, if different
-beautifulsoup4==4.12.3
-lxml==5.2.1
-requests==2.32.3
-
-# Excel support
-openpyxl==3.1.2
-
-# Progress bars and browser automation
-tqdm==4.66.4
-selenium==4.20.0
-webdriver-manager==4.0.1
+sentence-transformers==2.2.2
+scikit-learn==1.4.2
+numpy==1.24.4
+pandas==2.2.1
+joblib==1.3.2
+huggingface_hub==0.10.1
+trafilatura
+faiss-cpu
+lxml_html_clean
+openpyxl
+torch
+InstructorEmbedding==1.0.1
+beautifulsoup4
+requests
+pandas
+tqdm
+selenium
+webdriver-manager
