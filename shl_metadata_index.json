@@ -1,0 +1,3282 @@
+[
+  {
+    "Assessment Name": "Account Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/account-manager-solution/",
+    "Duration": 49,
+    "Test Type": "Competencies, Personality & Behavior, Ability & Aptitude, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Administrative Professional - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "Duration": 36,
+    "Test Type": "Ability & Aptitude, Knowledge & Skills, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Agency Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/agency-manager-solution/",
+    "Duration": 51,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Apprentice + 8.0 Job Focused Assessment",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "Duration": 30,
+    "Test Type": "Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Apprentice 8.0 Job Focused Assessment",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "Duration": 20,
+    "Test Type": "Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Bank Administrative Assistant - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "Duration": 35,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Bank Collections Agent - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/bank-collections-agent-short-form/",
+    "Duration": 45,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Bank Operations Supervisor - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "Duration": 45,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Bilingual Spanish Reservation Agent Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "Duration": 43,
+    "Test Type": "Biodata & Situational Judgement, Personality & Behavior, Simulations, Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "Duration": 49,
+    "Test Type": "Personality & Behavior, Simulations, Knowledge & Skills, Biodata & Situational Judgement, Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Branch Manager - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/branch-manager-short-form/",
+    "Duration": 50,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Cashier Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/cashier-solution/",
+    "Duration": 28,
+    "Test Type": "Biodata & Situational Judgement, Ability & Aptitude, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Global Skills Development Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "Duration": "N/A",
+    "Test Type": "Ability & Aptitude, Assessment Exercises, Biodata & Situational Judgement, Competencies, Development & 360, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": ".NET Framework 4.5",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "Duration": 30,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": ".NET MVC (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "Duration": 17,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": ".NET MVVM (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": ".NET WCF (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": ".NET WPF (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": ".NET XAML (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Accounts Payable (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Accounts Payable Simulation (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "Duration": 8,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Accounts Receivable (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Accounts Receivable Simulation (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "Duration": 8,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "ADO.NET (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Adobe Experience Manager (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/",
+    "Duration": 17,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Adobe Photoshop CC",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/",
+    "Duration": 20,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Aeronautical Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Aerospace Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Agile Software Development",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Agile Testing (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "AI Skills",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ai-skills/",
+    "Duration": 16,
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Amazon Web Services (AWS) Development (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "Duration": 6,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Android Development (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/android-development-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Angular 6 (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "AngularJS (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Apache Hadoop (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Apache Hadoop Extensions (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Apache HBase (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Apache Hive (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Apache Kafka (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/",
+    "Duration": 6,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Apache Pig (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/",
+    "Duration": 6,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Apache Spark (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "ASP .NET with C# (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "ASP.NET 4.5",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/",
+    "Duration": 30,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Assessment and Development Center Exercises",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "Duration": "N/A",
+    "Test Type": "Assessment Exercises",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "Automata - Fix (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "Duration": 20,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Automata - SQL (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "Duration": 30,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Automata (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/",
+    "Duration": 45,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Automata Data Science (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-new/",
+    "Duration": 60,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Automata Data Science Pro (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-pro-new/",
+    "Duration": 60,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Automata Front End",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+    "Duration": 30,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Automata Pro (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro-new/",
+    "Duration": 60,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Automata Selenium",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "Duration": 60,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Automation Anywhere RPA Development (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Automotive Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/automotive-engineering-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Basic Biology (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/basic-biology-new/",
+    "Duration": 6,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Basic Computer Literacy (Windows 10) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "Duration": 30,
+    "Test Type": "Simulations, Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Basic Statistics (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/basic-statistics-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Biochemistry (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/biochemistry-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Biotech Lab Techniques (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/biotech-lab-techniques-new/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "BizTalk (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/",
+    "Duration": 16,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Business Communication (adaptive)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/",
+    "Duration": 24,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "Business Communications",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/business-communications/",
+    "Duration": 35,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "C Programming (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "C# Programming (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "C++ Programming (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Cardiology and Diabetes Management (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "Duration": 4,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Ceramic Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Chemical Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Cisco AppDynamics (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Civil Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Cloud Computing (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "COBOL Programming (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Computer Science (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Contact Center Call Simulation (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/",
+    "Duration": 15,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Conversational Multichat Simulation",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/",
+    "Duration": 11,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Core Java (Advanced Level) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Core Java (Entry Level) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Count Out The Money",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "CSS3 (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Culinary Skills (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Customer Service Phone Simulation",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/",
+    "Duration": 20,
+    "Test Type": "Biodata & Situational Judgement, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Customer Service Phone Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/",
+    "Duration": 30,
+    "Test Type": "Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Cyber Risk (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Enterprise Java Beans (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+    "Duration": 4,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Enterprise Leadership Report 1.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Enterprise Leadership Report 2.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Cashier Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/",
+    "Duration": 19,
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Customer Serv-Retail & Contact Center",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "Duration": 19,
+    "Test Type": "Personality & Behavior, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Customer Service (General) Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "Duration": 14,
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Hotel Front Desk Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "Duration": 20,
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Sales Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "Duration": 20,
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Technical Support Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/",
+    "Duration": 18,
+    "Test Type": "Personality & Behavior, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "ETL Testing (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Executive Scenarios",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+    "Duration": "N/A",
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Executive Scenarios Narrative Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "Duration": "N/A",
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Executive Scenarios Profile Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-profile-report/",
+    "Duration": "N/A",
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "ExpressJS (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/expressjs-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Filing - Names (R1)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/filing-names-r1/",
+    "Duration": 3,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Filing - Numbers",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/filing-numbers/",
+    "Duration": 3,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Financial Accounting (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Financial and Banking Services (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/financial-and-banking-services-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Fire Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/fire-engineering-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Following Instructions v1 - UK (R1)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Following Instructions v1 - US (R2)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Food and Beverage Services (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/food-and-beverage-services-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Food Science (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/food-science-new/",
+    "Duration": 6,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Front Office Management (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/front-office-management-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Fundamentals of Chemistry (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Fundamentals of Physics (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "General Diseases (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Geoinformatics Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Geoscience Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "GIT (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/git-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Global Skills Assessment",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "Duration": 16,
+    "Test Type": "Competencies, Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Graduate Scenarios",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/",
+    "Duration": "N/A",
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Graduate Scenarios Narrative Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "Duration": "N/A",
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Graduate Scenarios Profile Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "Duration": "N/A",
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Hibernate (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "HIPAA (Security)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/",
+    "Duration": 15,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "HiPo Assessment Report 1.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "Duration": "N/A",
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "HiPo Assessment Report 2.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "Duration": "N/A",
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "HiPo Unlocking Potential Report 2.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "Duration": "N/A",
+    "Test Type": "Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Housekeeping (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "HTML/CSS (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "HTML5 (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Human Resources (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "IBM DataStage (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/",
+    "Duration": 15,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "IBM Sterling Order Management System (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Industrial Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Informatica (Architecture) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Informatica (Developer) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Microsoft Windows Server 2012 Administration",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "Duration": 35,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Microsoft Word 365 - Essentials (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "Duration": 25,
+    "Test Type": "Knowledge & Skills, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Microsoft Word 365 (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/",
+    "Duration": 35,
+    "Test Type": "Simulations, Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Mineral Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Mining Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/",
+    "Duration": 16,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Mobility (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/mobility-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Molecular Biology (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/",
+    "Duration": 6,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MongoDB (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Motivation Questionnaire MQM5",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "Duration": 25,
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MQ Candidate Motivation Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MQ Employee Motivation Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MQ Motivation Report Pack",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MQ Profile",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/mq-profile/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MS Access (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ms-access-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MS Excel (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/",
+    "Duration": 6,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MS Office Basic Computer Literacy (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "Duration": 5,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MS PowerPoint (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ms-powerpoint-new/",
+    "Duration": 4,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MS Word (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ms-word-new/",
+    "Duration": 4,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "MuleSoft Development (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/mulesoft-development-new/",
+    "Duration": 17,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Multitasking Ability",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/multitasking-ability/",
+    "Duration": 20,
+    "Test Type": "Ability & Aptitude, Knowledge & Skills, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Networking and Implementation (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/networking-and-implementation-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Node.js (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/node-js-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Nursing (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/nursing-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Occupational Personality Questionnaire OPQ32r",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "Duration": 25,
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Operations Management (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/operations-management-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Candidate Plus Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-plus-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Candidate Report 2.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-report-2-0/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Emotional Intelligence Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Leadership Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Manager Plus Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Manager Plus Report 2.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Maximising your Learning Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ MQ Sales Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-mq-sales-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Premium Plus Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Premium Plus Report 2.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Profile Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-profile-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Team Impact Group Development Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Team Impact Individual Development Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Team Impact Selection Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-selection-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Team Types & Leadership Styles Profile",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Team Types and Leadership Styles Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ UCF Development Action Planner Report 1.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ UCF Development Action Planner Report 2.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Universal Competency Report 1.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ Universal Competency Report 2.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ User and Managers Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-and-managers-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "OPQ User Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-report/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Oracle DBA (Advanced Level) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Oracle DBA (Entry Level) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Oracle PL/SQL (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/oracle-plsql-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Oracle WebLogic Server (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/oracle-weblogic-server-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Organic Chemistry (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/organic-chemistry-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Paint Technology (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/paint-technology-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Pediatrics (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/pediatrics-new/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Pega Development (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/pega-development-new/",
+    "Duration": 17,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Perl (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/perl-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Petrochemical Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/petrochemical-engineering-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Petroleum Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/petroleum-engineering-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Pharmaceutical Analysis (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Pharmaceutical Chemistry (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "Duration": 17,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Pharmaceutical Science (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-science-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Pharmaceutics (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutics-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Pharmacology (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/pharmacology-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "PHP (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "PJM Development Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/pjm-development-report/",
+    "Duration": "N/A",
+    "Test Type": "Competencies, Ability & Aptitude, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "PJM Selection Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/pjm-selection-report/",
+    "Duration": "N/A",
+    "Test Type": "Ability & Aptitude, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Polymer Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/polymer-engineering-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Power Electronics and Drives (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/power-electronics-and-drives-new/",
+    "Duration": 15,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Power System Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/power-system-engineering-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Prism (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/prism-new/",
+    "Duration": 4,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Production and Industrial Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Production Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Programming Concepts",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/",
+    "Duration": 25,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Project Management (2013)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/",
+    "Duration": 30,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Proofreading v1",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/",
+    "Duration": 6,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Python (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "R Programming (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/",
+    "Duration": 13,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "ReactJS (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Reading Comprehension - English v1",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/",
+    "Duration": 35,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Reading Comprehension - Spanish v1",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "Duration": 26,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Reading Comprehension v2",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/",
+    "Duration": 35,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "RemoteWorkQ",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/",
+    "Duration": 10,
+    "Test Type": "Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "RemoteWorkQ Manager Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/",
+    "Duration": "N/A",
+    "Test Type": "Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "RemoteWorkQ Participant Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-participant-report/",
+    "Duration": "N/A",
+    "Test Type": "Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "RESTful Web Services (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/restful-web-services-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Retail Sales and Service Simulation",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "Duration": 30,
+    "Test Type": "Biodata & Situational Judgement, Knowledge & Skills, Simulations, Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Reviewing Forms - US (R1)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/reviewing-forms-us-r1/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Ruby (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ruby-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Ruby on Rails (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/ruby-on-rails-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales & Service Phone Simulation",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "Duration": 20,
+    "Test Type": "Simulations, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales & Service Phone Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+    "Duration": 35,
+    "Test Type": "Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Interview Guide",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-interview-guide/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Profiler Cards",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-profiler-cards/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Transformation 1.0 - Individual Contributor",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Transformation 2.0 - Individual Contributor",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Social Media (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/social-media-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Software Business Analysis",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/software-business-analysis/",
+    "Duration": 30,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SonarQube (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sonarqube-new/",
+    "Duration": "N/A",
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Spelling (U.S.) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/spelling-u-s-new/",
+    "Duration": 0,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Split Screen Typing Test - Form 1",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "Duration": 6,
+    "Test Type": "Ability & Aptitude, Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Spring (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/spring-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SQL (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SQL Server (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SQL Server Analysis Services (SSAS) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "Duration": 15,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SQL Server Integration Services (SSIS) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SQL Server Reporting Services (SSRS) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Statistical Analysis System (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/statistical-analysis-system-new/",
+    "Duration": 11,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Struts (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/struts-new/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SVAR - Spoken English (AUS)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-aus/",
+    "Duration": "N/A",
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SVAR - Spoken English (Indian Accent)  (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "Duration": "N/A",
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SVAR - Spoken English (U.K.)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-u-k/",
+    "Duration": "N/A",
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SVAR - Spoken English (US)  (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-us-new/",
+    "Duration": "N/A",
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SVAR - Spoken French (Canadian) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "Duration": "N/A",
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SVAR - Spoken French (European) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-european-new/",
+    "Duration": "N/A",
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "Duration": "N/A",
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "SVAR - Spoken Spanish (North American) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "Duration": "N/A",
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Swing (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/swing-new/",
+    "Duration": 4,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Tableau (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Telecommunications Engineering (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/telecommunications-engineering-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Teradata Development (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Time Management (U.S.)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/",
+    "Duration": 15,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "Training Development",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/training-development/",
+    "Duration": 15,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Typing (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/typing-new/",
+    "Duration": 2,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "UiPath RPA Development (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/",
+    "Duration": 8,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Universal Competency Framework Interview Guide",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "Duration": "N/A",
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Universal Competency Framework Job profiling guide",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "Duration": "N/A",
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Universal Competency Framework Profiler Cards (44)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "Duration": "N/A",
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "UNIX (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/unix-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "VB.NET (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/",
+    "Duration": 10,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify - Deductive Reasoning",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "Duration": 20,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify - Following Instructions",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/",
+    "Duration": 8,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify - G+",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-g/",
+    "Duration": 36,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "Verify - General Ability Screen",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-general-ability-screen/",
+    "Duration": 10,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify - Inductive Reasoning (2014)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "Duration": 24,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify - Numerical Ability",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "Duration": 20,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "Verify - Technical Checking - Next Generation",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "Duration": 5,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify - Verbal Ability - Next Generation",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "Duration": 15,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "Verify - Working with Information",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-working-with-information/",
+    "Duration": 10,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify G+ - Ability Test Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-ability-test-report/",
+    "Duration": "N/A",
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify G+ - Candidate Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-candidate-report/",
+    "Duration": "N/A",
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify Interactive Ability Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-ability-report/",
+    "Duration": "N/A",
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify Interactive G+ Candidate Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "Duration": "N/A",
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify Interactive G+ Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-report/",
+    "Duration": "N/A",
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Verify Interactive Process Monitoring",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "Duration": 18,
+    "Test Type": "Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Virtual Assessment and Development Centers",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "Duration": "N/A",
+    "Test Type": "Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "Yes"
+  },
+  {
+    "Assessment Name": "Visual Basic for Applications (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/visual-basic-for-applications-new/",
+    "Duration": 7,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Visual Comparison - UK",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-uk/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Visual Comparison - US",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-us/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "VLSI and Embedded Systems (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "What Is The Value - US",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/what-is-the-value-us/",
+    "Duration": 5,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Workplace Administration Skills (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-administration-skills-new/",
+    "Duration": 12,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Workplace Health and Safety (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-health-and-safety-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "WriteX - Email Writing (Customer Service) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "Duration": 15,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "WriteX - Email Writing (Managerial) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "Duration": 15,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "WriteX - Email Writing (Sales) (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "Duration": 15,
+    "Test Type": "Biodata & Situational Judgement, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Written English v1",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "Duration": 30,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Written Spanish",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/written-spanish/",
+    "Duration": 22,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Zabbix (New)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/",
+    "Duration": 9,
+    "Test Type": "Knowledge & Skills",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "360 Digital Report",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/",
+    "Duration": "N/A",
+    "Test Type": "Development & 360",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "Duration": "N/A",
+    "Test Type": "Development & 360, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Claims/Operations Supervisor Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/claimsoperations-supervisor-solution/",
+    "Duration": 48,
+    "Test Type": "Personality & Behavior, Simulations, Ability & Aptitude, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Contact Center Customer Service + 8.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-8-0/",
+    "Duration": 41,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Competencies, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Contact Center Customer Service 8.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+    "Duration": 31,
+    "Test Type": "Simulations, Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Contact Center Manager - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-manager-short-form/",
+    "Duration": 50,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Contact Center Sales & Service + 8.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+    "Duration": 41,
+    "Test Type": "Personality & Behavior, Biodata & Situational Judgement, Competencies, Ability & Aptitude, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Contact Center Sales & Service 8.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+    "Duration": 31,
+    "Test Type": "Simulations, Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Contact Center Team Lead/Coach - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+    "Duration": 45,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Contact Centre Agent Solution - UK",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-centre-agent-solution-uk/",
+    "Duration": 39,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Customer Service - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-short-form/",
+    "Duration": 42,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Customer Service - Short Form - UK",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-short-form-uk/",
+    "Duration": 42,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Customer Service with Sales - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-with-sales-short-form/",
+    "Duration": 44,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Director - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/director-short-form/",
+    "Duration": 69,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "District/Regional Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/districtregional-manager-solution/",
+    "Duration": 65,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Cashier 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+    "Duration": 18,
+    "Test Type": "Biodata & Situational Judgement, Personality & Behavior, Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Cashier 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+    "Duration": 18,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Customer Service 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+    "Duration": 19,
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Customer Service 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+    "Duration": 19,
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Customer Service 7.1 (South Africa)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+    "Duration": 19,
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry level Sales 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+    "Duration": 20,
+    "Test Type": "Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry level Sales 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "Duration": 20,
+    "Test Type": "Personality & Behavior, Biodata & Situational Judgement, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Entry Level Sales Sift Out 7.1",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "Duration": 20,
+    "Test Type": "Competencies, Personality & Behavior, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Event Sales Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/event-sales-manager-solution/",
+    "Duration": 50,
+    "Test Type": "Simulations, Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Executive - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/executive-short-form/",
+    "Duration": 74,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Financial Professional - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+    "Duration": 35,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Guest Services Associate Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/guest-services-associate-solution/",
+    "Duration": 48,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Healthcare Aide 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-aide-7-0-solution/",
+    "Duration": 22,
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Healthcare Call Center Agent Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-call-center-agent-solution/",
+    "Duration": 44,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Healthcare Service Associate Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-service-associate-solution/",
+    "Duration": 37,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Healthcare Support Specialist Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-support-specialist-solution/",
+    "Duration": 30,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Home Health Aide Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/home-health-aide-solution/",
+    "Duration": 41,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Hospitality Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/hospitality-manager-solution/",
+    "Duration": 57,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Host Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/host-solution/",
+    "Duration": 30,
+    "Test Type": "Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Industrial - Entry Level 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-0-solution/",
+    "Duration": 20,
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Industrial - Entry Level 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-1-%28americas%29/",
+    "Duration": 20,
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Industrial - Entry Level 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-1-%28international%29/",
+    "Duration": 20,
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Industrial - Professional and Skilled 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-0-solution/",
+    "Duration": 49,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Industrial - Semi-skilled 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-semi-skilled-7-1-%28americas%29/",
+    "Duration": 24,
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Industrial - Semi-skilled 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-semi-skilled-7-1-%28international%29/",
+    "Duration": 24,
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Industrial Professional and Skilled 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-1-%28americas%29/",
+    "Duration": 49,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Industrial Professional and Skilled 7.1 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-1-solution/",
+    "Duration": 49,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Installation and Repair Technician Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/installation-and-repair-technician-solution/",
+    "Duration": 49,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Insurance Account Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-account-manager-solution/",
+    "Duration": 48,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Insurance Administrative Assistant Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-administrative-assistant-solution/",
+    "Duration": 24,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Insurance Agent Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-agent-solution/",
+    "Duration": 46,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Insurance Director Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-director-solution/",
+    "Duration": 49,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Insurance Sales Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-sales-manager-solution/",
+    "Duration": 51,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manager - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-short-form/",
+    "Duration": 57,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manager + 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-0-solution-3955/",
+    "Duration": 53,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manager + 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-solution-4242/",
+    "Duration": 63,
+    "Test Type": "Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manager + 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-%28international%29/",
+    "Duration": "N/A",
+    "Test Type": "N/A",
+    "Remote Testing Support": "No",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manager 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-0-solution/",
+    "Duration": 35,
+    "Test Type": "Biodata & Situational Judgement, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manager 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-%28americas%29/",
+    "Duration": 40,
+    "Test Type": "Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manager 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-solution/",
+    "Duration": 40,
+    "Test Type": "Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manager 8.0 JFA",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa/",
+    "Duration": 26,
+    "Test Type": "Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manager 8.0+ JFA",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "Duration": 44,
+    "Test Type": "Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manufacturing Production Team Member",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manufacturing-production-team-member/",
+    "Duration": 35,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Manufacturing Skilled Maintenance Worker",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/manufacturing-skilled-maintenance-worker/",
+    "Duration": 45,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Network Engineer/Analyst Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/network-engineeranalyst-solution/",
+    "Duration": 41,
+    "Test Type": "Personality & Behavior, Simulations, Knowledge & Skills, Biodata & Situational Judgement, Ability & Aptitude",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Nurse Leader Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/nurse-leader-solution/",
+    "Duration": 59,
+    "Test Type": "Simulations, Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Nurse Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/nurse-solution/",
+    "Duration": 66,
+    "Test Type": "Personality & Behavior, Ability & Aptitude, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Nursing Assistant Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/nursing-assistant-solution/",
+    "Duration": 41,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Personal Banker - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/personal-banker-short-form/",
+    "Duration": 30,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Phone Banker - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/phone-banker-short-form/",
+    "Duration": 40,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Prep/Line Cook Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/prepline-cook-solution/",
+    "Duration": 24,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Professional + 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
+    "Duration": 51,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Professional + 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-%28americas%29/",
+    "Duration": 56,
+    "Test Type": "Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Professional + 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "Duration": 56,
+    "Test Type": "Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Professional 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution/",
+    "Duration": 33,
+    "Test Type": "Biodata & Situational Judgement, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Professional 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution-4247/",
+    "Duration": 33,
+    "Test Type": "Competencies, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Professional 8.0 JFA",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-8-0-jfa/",
+    "Duration": 16,
+    "Test Type": "Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Professional/Individual Contributor - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/professionalindividual-contributor-short-form/",
+    "Duration": 44,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Project Manager - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/project-manager-short-form/",
+    "Duration": 49,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Proof Operator - Processing Specialist -Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/proof-operator-processing-specialist-short-form/",
+    "Duration": 30,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Reservation Agent Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/reservation-agent-solution/",
+    "Duration": 43,
+    "Test Type": "Ability & Aptitude, Personality & Behavior, Simulations, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Restaurant Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/restaurant-manager-solution/",
+    "Duration": 48,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Restaurant Supervisor Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/restaurant-supervisor-solution/",
+    "Duration": 53,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Retail Consultant Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/retail-consultant-solution/",
+    "Duration": 45,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Retail Manager w/ Sales Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/retail-manager-w-sales-solution/",
+    "Duration": 43,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Retail Sales Associate Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/retail-sales-associate-solution/",
+    "Duration": 29,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Director Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-director-solution/",
+    "Duration": 59,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Engineer Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-engineer-solution/",
+    "Duration": 61,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-manager-solution/",
+    "Duration": 63,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Professional 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-professional-7-0-solution/",
+    "Duration": 21,
+    "Test Type": "Competencies, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Professional 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-professional-7-1-%28americas%29/",
+    "Duration": 21,
+    "Test Type": "Biodata & Situational Judgement, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Professional Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-professional-solution/",
+    "Duration": 47,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Representative Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "Duration": 29,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Supervisor Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-supervisor-solution/",
+    "Duration": 38,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Sales Support Specialist Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+    "Duration": 43,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Senior Insurance Agent Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/senior-insurance-agent-solution/",
+    "Duration": 44,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Senior Sales Professional Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/senior-sales-professional-solution/",
+    "Duration": 42,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Server Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/server-solution/",
+    "Duration": 40,
+    "Test Type": "Biodata & Situational Judgement, Ability & Aptitude, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Service Associate Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/service-associate-solution/",
+    "Duration": 38,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Service Supervisor Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/service-supervisor-solution/",
+    "Duration": 48,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Stock Clerk Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/stock-clerk-solution/",
+    "Duration": 25,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Store Manager 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-0-solution/",
+    "Duration": 34,
+    "Test Type": "Biodata & Situational Judgement, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Store Manager 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+    "Duration": 34,
+    "Test Type": "Biodata & Situational Judgement, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Store Manager 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-1-%28international%29/",
+    "Duration": 34,
+    "Test Type": "Competencies, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Store Manager Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-solution/",
+    "Duration": 49,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Supervisor - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-short-form/",
+    "Duration": 57,
+    "Test Type": "Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Supervisor 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-7-0-solution/",
+    "Duration": 32,
+    "Test Type": "Biodata & Situational Judgement, Competencies",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Supervisor 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-7-1-%28americas%29/",
+    "Duration": 29,
+    "Test Type": "Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Supervisor 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-7-1-%28international%29/",
+    "Duration": 29,
+    "Test Type": "Personality & Behavior, Competencies, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Support Associate Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/support-associate-solution/",
+    "Duration": 38,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Support Supervisor Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/support-supervisor-solution/",
+    "Duration": 39,
+    "Test Type": "Ability & Aptitude, Personality & Behavior, Simulations, Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Technical Sales Associate Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "Duration": 41,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Technician/Technologist Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/techniciantechnologist-solution/",
+    "Duration": 52,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Technology Professional 8.0 Job Focused Assessment",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+    "Duration": 16,
+    "Test Type": "Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Telenurse Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/telenurse-solution/",
+    "Duration": 68,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Teller 7.0",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/teller-7-0/",
+    "Duration": 35,
+    "Test Type": "Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Teller with Sales - Short Form",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/teller-with-sales-short-form/",
+    "Duration": 35,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior, Simulations",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Transcriptionist Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/transcriptionist-solution/",
+    "Duration": 33,
+    "Test Type": "Ability & Aptitude, Biodata & Situational Judgement, Knowledge & Skills, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Workplace Safety - Individual 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+    "Duration": 16,
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Workplace Safety - Individual 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+    "Duration": 16,
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Workplace Safety - Team 7.0 Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+    "Duration": 20,
+    "Test Type": "Biodata & Situational Judgement",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Workplace Safety - Team 7.1 (Americas)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+    "Duration": 20,
+    "Test Type": "Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Workplace Safety - Team 7.1 (International)",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+    "Duration": 20,
+    "Test Type": "Biodata & Situational Judgement, Competencies, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  },
+  {
+    "Assessment Name": "Workplace Safety Solution",
+    "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-solution/",
+    "Duration": 21,
+    "Test Type": "Biodata & Situational Judgement, Personality & Behavior",
+    "Remote Testing Support": "Yes",
+    "Adaptive/IRT Support": "No"
+  }
+]

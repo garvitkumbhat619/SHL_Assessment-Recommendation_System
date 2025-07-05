@@ -1,0 +1,117 @@
+[
+  {
+    "query": "Looking for a candidate proficient in Microsoft Word and basic office software. The candidate should be adept at document creation, formatting, and managing files.",
+    "relevant_ids": [
+      "MS Word (New)",
+      "MS Office Basic Computer Literacy (New)"
+    ]
+  },
+  {
+    "query": "Seeking a candidate experienced in .NET development, with skills in the .NET Framework, MVC, WPF, and related technologies.",
+    "relevant_ids": [
+      ".NET Framework 4.5",
+      ".NET MVC (New)",
+      ".NET MVVM (New)",
+      ".NET WCF (New)",
+      ".NET WPF (New)",
+      ".NET XAML (New)",
+      "ADO.NET (New)"
+    ]
+  },
+  {
+    "query": "Looking for an engineering professional with expertise in aeronautical and aerospace engineering.",
+    "relevant_ids": [
+      "Aeronautical Engineering (New)",
+      "Aerospace Engineering (New)"
+    ]
+  },
+  {
+    "query": "Seeking a candidate for a banking operations role with skills in customer service and administrative tasks.",
+    "relevant_ids": [
+      "Bank Administrative Assistant - Short Form",
+      "Bank Collections Agent - Short Form",
+      "Bank Operations Supervisor - Short Form"
+    ]
+  },
+  {
+    "query": "Looking for someone to manage branch-level operations with leadership and customer service experience.",
+    "relevant_ids": ["Branch Manager - Short Form"]
+  },
+  {
+    "query": "Need an entry-level candidate for a retail cashier position who is good with numbers and has basic customer service skills.",
+    "relevant_ids": ["Cashier Solution"]
+  },
+  {
+    "query": "Searching for a professional to handle accounts payable tasks, ideally with simulation experience.",
+    "relevant_ids": ["Accounts Payable (New)", "Accounts Payable Simulation (New)"]
+  },
+  {
+    "query": "We require a candidate with strong accounts receivable knowledge, including hands-on practice.",
+    "relevant_ids": ["Accounts Receivable (New)", "Accounts Receivable Simulation (New)"]
+  },
+  {
+    "query": "Looking for a bilingual reservation agent fluent in Spanish with good problem-solving skills.",
+    "relevant_ids": ["Bilingual Spanish Reservation Agent Solution"]
+  },
+  {
+    "query": "Need a candidate experienced in Adobe Photoshop for digital design and photo editing tasks.",
+    "relevant_ids": ["Adobe Photoshop CC"]
+  },
+  {
+    "query": "Seeking a developer skilled in Adobe Experience Manager for CMS and web platform development.",
+    "relevant_ids": ["Adobe Experience Manager (New)"]
+  },
+  {
+    "query": "Searching for someone skilled in bookkeeping and auditing with simulation-based assessment experience.",
+    "relevant_ids": ["Bookkeeping, Accounting, Auditing Clerk Short Form"]
+  },
+  {
+    "query": "Looking for an administrative assistant for a bank who can handle clerical and situational tasks.",
+    "relevant_ids": ["Bank Administrative Assistant - Short Form"]
+  },
+  {
+    "query": "Need a candidate with technical accounting skills, especially in auditing and accounts reconciliation.",
+    "relevant_ids": ["Bookkeeping, Accounting, Auditing Clerk Short Form", "Accounts Payable (New)", "Accounts Receivable (New)"]
+  },
+  {
+    "query": "Hiring for a software engineer with experience in ADO.NET and backend database connectivity.",
+    "relevant_ids": ["ADO.NET (New)"]
+  },
+  {
+    "query": "Looking for someone to lead an insurance agency with leadership and situational judgment capabilities.",
+    "relevant_ids": ["Agency Manager Solution"]
+  },
+  {
+    "query": "Seeking an administrative professional for general office duties, including scheduling and file handling.",
+    "relevant_ids": ["Administrative Professional - Short Form"]
+  },
+  {
+    "query": "Searching for a collections agent in banking who understands cognitive reasoning and has good interpersonal skills.",
+    "relevant_ids": ["Bank Collections Agent - Short Form"]
+  },
+  {
+    "query": "Looking for a reservation agent with strong cognitive skills and the ability to handle customer scenarios.",
+    "relevant_ids": ["Bilingual Spanish Reservation Agent Solution"]
+  },
+  {
+    "query": "Need a junior candidate for an apprenticeship with situational awareness and good personality traits.",
+    "relevant_ids": ["Apprentice 8.0 Job Focused Assessment", "Apprentice + 8.0 Job Focused Assessment"]
+  },
+  {
+    "query": "Hiring an account manager who can handle client relationships with cognitive and behavioral competence.",
+    "relevant_ids": ["Account Manager Solution"]
+  },
+  {
+    "query": "Looking for someone skilled in WCF and backend service communication using .NET technologies.",
+    "relevant_ids": [".NET WCF (New)"]
+  },
+  {
+    "query": "Seeking a candidate with knowledge in XAML and UI markup for WPF-based desktop applications.",
+    "relevant_ids": [".NET XAML (New)", ".NET WPF (New)"]
+  },
+  {
+    "query": "Hiring someone with knowledge in aerospace mechanics and structural engineering for aircraft systems.",
+    "relevant_ids": ["Aeronautical Engineering (New)", "Aerospace Engineering (New)"]
+  }
+]
+
